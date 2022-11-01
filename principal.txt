@@ -1,0 +1,8 @@
+EJERCICIO 1
+----------------------------
+
+
+1 Crear repositorio
+2 Añadir fichero readme
+3 Crear y cargar fichero inicial
+4 Modificar fichero
